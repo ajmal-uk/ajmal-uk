@@ -1,8 +1,5 @@
 # 👋 Hi, I'm Ajmal UK
-
 **A passionate Fullstack App Development || AI Projects || MCA Student**
-
-Email Me 👉 ✉️ **ajmaluk.me@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 <p align="center">
   <a href="https://instagram.com/ajmal.me" target="_blank">
@@ -121,8 +118,7 @@ Email Me 👉 ✉️ **ajmaluk.me@gmail.com** For Collaboration/Project or Anyth
 ---
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in" target="_blank">
-    <img src="https://visitcount.itsvg.in/api?id=ajmal-uk&icon=0&color=0" alt="Visitor Count"/>
-  </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ajmal-uk.ajmal-uk" alt="Visitor Count">
 </p>
+
 
