@@ -1,7 +1,7 @@
 <div align="center">
   <h1><strong>👋 Hi, I'm Ajmal UK</strong></h1>
 </div>
-<div align="center">
+<div align="center" style="bottom-margin:10px;">
   <strong>A passionate Fullstack App Developer || AI Projects Enthusiast || MCA Student</strong><br>
 </div>
 
