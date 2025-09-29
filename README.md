@@ -121,5 +121,8 @@ Email Me 👉 ✉️ **ajmaluk.me@gmail.com** For Collaboration/Project or Anyth
 ---
 
 <p align="center">
-  [![Visitor Count](https://visitcount.itsvg.in/api?id=ajmal-uk&icon=0&color=0)](https://visitcount.itsvg.in)
+  <a href="https://visitcount.itsvg.in" target="_blank">
+    <img src="https://visitcount.itsvg.in/api?id=ajmal-uk&icon=0&color=0" alt="Visitor Count"/>
+  </a>
 </p>
+
