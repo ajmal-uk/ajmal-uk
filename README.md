@@ -1,6 +1,8 @@
-# 👋 Hi, I'm Ajmal UK
 <div align="center">
-  <strong>A passionate Fullstack App Developer || AI Projects Enthusiast || MCA Student</strong>
+  # 👋 Hi, I'm Ajmal UK
+</div>
+<div align="center">
+  <strong>A passionate Fullstack App Developer || AI Projects Enthusiast || MCA Student</strong><br>
 </div>
 
 <div align="center">
