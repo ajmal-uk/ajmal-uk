@@ -1,5 +1,5 @@
 <div align="center">
-  # 👋 Hi, I'm Ajmal UK
+  <h1><strong>👋 Hi, I'm Ajmal UK</strong></h1>
 </div>
 <div align="center">
   <strong>A passionate Fullstack App Developer || AI Projects Enthusiast || MCA Student</strong><br>
