@@ -138,6 +138,11 @@
   </a>
 </div>
 
+
+<div align="center">
+  <img width="868px" src="https://github-readme-activity-graph.vercel.app/graph?username=ajmal-uk&theme=react-dark" alt="Alvin Dennis"/>
+</div>
+
 ---
 
 <div align="center">
