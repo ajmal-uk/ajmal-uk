@@ -99,16 +99,6 @@
 ---
 
 <div align="center">
-  <h2>🏆 GitHub Trophies</h2>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ajmal-uk&theme=radical&no-bg=true" alt="Trophies"/>
-</div>
-
----
-
-<div align="center">
   <h2>✍️ Random Dev Quote</h2>
 </div>
 
