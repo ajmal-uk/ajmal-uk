@@ -5,6 +5,18 @@
   <strong>A passionate Fullstack App Developer || AI Projects Enthusiast || MCA Student</strong>
 </div>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+### 👋 Hey there! I'm Ajmal
+
+- 🔭 I’m currently pursuing my **MCA at CET**  
+- 🌱 I’m learning and exploring **Artificial Intelligence & Machine Learning (AI/ML)**  
+- 💬 Ask me about **Android Development, AI, or Full-Stack Development**  
+- 📫 Reach me at **ajmaluk.me@gmail.com**  
+- ⚡ Fun fact: **I am Iron Man 😎**
+
+---
+
 <div align="center">
   <a href="https://instagram.com/ajmal.me" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
