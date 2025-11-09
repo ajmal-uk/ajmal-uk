@@ -138,3 +138,32 @@
 <div align="center">
   <p><em>Thanks for visiting! 🚀 Feel free to connect or collaborate on exciting projects.</em></p>
 </div>
+
+---
+
+<div align="center">
+<h2>📈 Featured Projects</h2>
+</div>
+
+| Project | Description | Tech Stack | Links |
+|---------|-------------|-----------|-------|
+| **ZyRace** | Physics-based racing game with real-time multiplayer | HTML5, Physics Engine | [GitHub](https://github.com/ajmal-uk/zy-race) |
+| **Dementia Virtual Memory** | AI-driven mobile app for dementia care | Flutter, Firebase, ML | [GitHub](https://github.com/ajmal-uk/dementia-virtual-memory) |
+| **Explore Together** | Cross-platform travel app with AI suggestions | Flutter, Firebase | [GitHub](https://github.com/ajmal-uk/explore-together) |
+| **ZyMail** | Privacy-focused temporary email generator | Flask, React, Security | [GitHub](https://github.com/ajmal-uk/temp-mail-generator) |
+| **Chatbot Gemini** | AI chatbot powered by Google Gemini API | Python, OpenAI, CLI | [GitHub](https://github.com/ajmal-uk/chatbot-gemini) |
+
+---
+
+<div align="center">
+<h2>🎯 What I'm Working On</h2>
+<p>🚀 Building scalable full-stack applications | 🤖 Exploring AI/ML integration | 📱 Mobile app development with Flutter | ☁️ Cloud deployment optimization</p>
+</div>
+
+---
+
+<div align="center">
+<h2>💡 Let's Collaborate!</h2>
+<p>I'm always open to discussions about:</p>
+<p>• Full-Stack Development | • Mobile Apps | • AI & Machine Learning | • Web Design | • Open Source</p>
+</div>
