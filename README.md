@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="assets/avt.gif" width="200px" style="border-radius: 50%; border: 3px solid #F75C7E;"/>
+  <img src="assets/banner.gif" width="200px" style="border-radius: 50%; border: 3px solid #F75C7E;"/>
 </p>
 
 <p align="center">
@@ -424,7 +424,7 @@
 <!-- Banner -->
 <p align="center">
   <a href="https://ajmaluk.netlify.app">
-    <img src="assets/banner.gif" alt="Banner" width="100%"/>
+    <img src="assets/avt.gif" alt="Banner" width="100%"/>
   </a>
 </p>
 
