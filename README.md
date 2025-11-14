@@ -1,9 +1,4 @@
-<!-- Banner -->
-<p align="center">
-  <a href="https://ajmaluk.netlify.app">
-    <img src="assets/banner.gif" alt="Banner" width="100%"/>
-  </a>
-</p>
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Ajmal+UK;Fullstack+App+Developer;AI%2FML+Enthusiast;MCA+Student+%40+CET" alt="Typing SVG" />
@@ -424,6 +419,13 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
+<!-- Banner -->
+<p align="center">
+  <a href="https://ajmaluk.netlify.app">
+    <img src="assets/banner.gif" alt="Banner" width="100%"/>
+  </a>
 </p>
 
 <p align="center">
