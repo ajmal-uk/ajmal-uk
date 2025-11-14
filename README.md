@@ -1,4 +1,4 @@
-[![MasterHead](https://git)](https://ajmaluk.netlify.app)
+[![MasterHead](assets/banner.gif)](https://ajmaluk.netlify.app)
 
 <div align="center">
   <h1><strong>👋 Hi, I'm Ajmal UK</strong></h1>
@@ -8,7 +8,7 @@
 ---
 
 <div align="center">
-  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  <img align="right" alt="Coding" width="400" src="assets/avt.gif">
 </div>
 
 ### 👋 Hey there! I'm Ajmal
