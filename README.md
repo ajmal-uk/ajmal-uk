@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="assets/avt.gif" width="200px" style="border-radius: 50%; border: 3px solid #F75C7E;"/>
+  <img src="assets/avatar.gif" width="200px" style="border-radius: 50%; border: 3px solid #F75C7E;"/>
 </p>
 
 <p align="center">
