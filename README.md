@@ -272,7 +272,6 @@ fun_fact: I am Iron Man 😎
 
 <!-- Current Focus -->
 <h2 align="center">🎯 Current Focus</h2>
-<<<<<<< HEAD
 
 <table align="center">
   <tr>
@@ -298,17 +297,6 @@ fun_fact: I am Iron Man 😎
 </table>
 
 ---
-=======
-```javascript
-const ajmal = {
-    currentProjects: ["AI Memory Assistant", "Travel Matching App", "LLM Integration Tools"],
-    learning: ["Advanced Flutter Architecture", "ML Model Deployment", "Cloud Optimization"],
-    collaboration: ["Open Source AI Projects", "Mobile App Development", "Full-Stack Solutions"],
-    2025Goals: ["Launch 3 Production Apps", "Contribute to AI/ML OSS", "Complete MCA with Distinction"],
-    askMeAbout: ["Flutter", "Firebase", "AI Integration", "Python Backend", "Mobile UX"]
-};
-```
->>>>>>> d60b3e4accaea275e9e6e05d3e0d2044ca651c24
 
 ---
 
