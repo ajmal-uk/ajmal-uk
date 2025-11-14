@@ -40,21 +40,22 @@
 
 ---
 
-<!-- About Section with better layout -->
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<!-- About Section with Animation -->
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-### 👨‍💻 About Me
-```yaml
-name: Ajmal UK
-located_in: Kerala, India
-current_education: MCA @ CET Trivandrum
-focus: Full-Stack Development & AI/ML
-interests: [Mobile Apps, AI Chatbots, Cloud Architecture]
-learning: [LLM Integration, Advanced Flutter, ML Deployment]
-fun_fact: I am Iron Man 😎
-```
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
 
-- 🔭 Building **AI-powered mobile & web applications**
+<p>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <em><b>Name:</b> Ajmal UK</em><br>
+  <img src="https://cdn-icons-png.flaticon.com/512/684/684908.png" width="20"> <em><b>Location:</b> Kerala, India 🇮🇳</em><br>
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> <em><b>Education:</b> MCA @ CET Trivandrum</em><br>
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> <em><b>Focus:</b> Full-Stack Development & AI/ML</em><br>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <em><b>Interests:</b> Mobile Apps, AI Chatbots, Cloud Architecture</em><br>
+  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30"> <em><b>Learning:</b> LLM Integration, Advanced Flutter, ML Deployment</em><br>
+  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30"> <em><b>Fun Fact:</b> I am Iron Man 😎</em>
+</p>
+
+- 🔭 Currently building **AI-powered mobile & web applications**
 - 🌱 Exploring **LLMs, Prompt Engineering & Cloud Solutions**
 - 💬 Ask me about **Flutter, Python, Firebase, AI Integration**
 - 📫 Reach me: **ajmaluk.me@gmail.com**
@@ -65,7 +66,10 @@ fun_fact: I am Iron Man 😎
 ---
 
 <!-- Tech Stack - Improved Grid -->
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> 
+  Tech Stack & Tools
+</h2>
 
 <div align="center">
 
@@ -119,33 +123,84 @@ fun_fact: I am Iron Man 😎
 
 ---
 
-<!-- Certifications Section -->
-<h2 align="center">🎓 Certifications & Achievements</h2>
+<!-- Certifications Section - ENHANCED WITH ANIMATION -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBkNDJlZmYyYjllYzMwZWJiMWY0YjY0YTM5ZjA2YjMyYzA4YzQ5YyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/W5eoZHPpUx9sapR0eu/giphy.gif" width="35px">
+  Certifications & Achievements
+</h2>
 
 <p align="center">
-  <img src="assets/certificates/oracle_oci_ai_foundations.png" width="180" style="margin: 10px; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);"/>
-  <img src="assets/certificates/oracle_agent_studio.png" width="180" style="margin: 10px; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);"/>
-  <img src="assets/certificates/google_cloud_arcade.png" width="180" style="margin: 10px; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);"/>
-  <img src="assets/certificates/deloitte_data_analytics.png" width="180" style="margin: 10px; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);"/>
-  <img src="assets/certificates/microsoft_prompt_engineering.png" width="180" style="margin: 10px; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);"/>
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50" alt="fire"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100" alt="trophy"/>
 </p>
 
 <div align="center">
 
-| Certification | Issuer | Year |
-|--------------|--------|------|
-| **Oracle OCI AI Foundations Associate** | Oracle | 2025 |
-| **Oracle AI Agent Studio – Foundations** | Oracle | 2025 |
-| **Data Analytics Virtual Program** | Deloitte Australia | 2025 |
-| **Google Cloud Arcade – Milestone 3** | Google Cloud | 2024 |
-| **Prompt Engineering with GitHub Copilot** | Microsoft | 2024 |
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="assets/certificates/oracle_oci_ai_foundations.png" width="100" alt="Oracle OCI AI"/>
+<br/>
+<sub><b>Oracle OCI AI<br/>Foundations</b></sub>
+<br/>
+<sup>🏆 2025</sup>
+</td>
+<td align="center" width="20%">
+<img src="assets/certificates/oracle_agent_studio.png" width="100" alt="Oracle Agent Studio"/>
+<br/>
+<sub><b>Oracle AI Agent<br/>Studio</b></sub>
+<br/>
+<sup>🏆 2025</sup>
+</td>
+<td align="center" width="20%">
+<img src="assets/certificates/deloitte_data_analytics.png" width="100" alt="Deloitte Analytics"/>
+<br/>
+<sub><b>Deloitte Data<br/>Analytics</b></sub>
+<br/>
+<sup>🏆 2025</sup>
+</td>
+<td align="center" width="20%">
+<img src="assets/certificates/google_cloud_arcade.png" width="100" alt="Google Cloud"/>
+<br/>
+<sub><b>Google Cloud<br/>Arcade</b></sub>
+<br/>
+<sup>⭐ 2024</sup>
+</td>
+<td align="center" width="20%">
+<img src="assets/certificates/microsoft_prompt_engineering.png" width="100" alt="Microsoft Copilot"/>
+<br/>
+<sub><b>Prompt Eng.<br/>GitHub Copilot</b></sub>
+<br/>
+<sup>⭐ 2024</sup>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<details>
+<summary><b>📜 View Detailed Certification Information</b></summary>
+<br/>
+
+| 🎓 Certification | 🏢 Issuer | 📅 Year | 🔗 Verify |
+|:----------------|:---------|:-------:|:-------:|
+| Oracle OCI AI Foundations Associate | Oracle | 2025 | ✅ |
+| Oracle AI Agent Studio – Foundations | Oracle | 2025 | ✅ |
+| Data Analytics Virtual Program | Deloitte Australia | 2025 | ✅ |
+| Google Cloud Arcade – Milestone 3 | Google Cloud | 2024 | ✅ |
+| Prompt Engineering with GitHub Copilot | Microsoft | 2024 | ✅ |
+
+</details>
 
 </div>
 
 ---
 
 <!-- Projects Section -->
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px">
+  Featured Projects
+</h2>
 
 <table align="center">
   <tr>
@@ -239,7 +294,10 @@ fun_fact: I am Iron Man 😎
 ---
 
 <!-- GitHub Stats -->
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px">
+  GitHub Analytics
+</h2>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ajmal-uk&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -271,11 +329,14 @@ fun_fact: I am Iron Man 😎
 ---
 
 <!-- Current Focus -->
-<h2 align="center">🎯 Current Focus</h2>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="35px">
+  Current Focus
+</h2>
 
 <table align="center">
   <tr>
-    <td align="center">🚀 <b>Current Projects</b></td>
+    <td align="center" width="30%">🚀 <b>Current Projects</b></td>
     <td>AI Memory Assistant • Travel Matching App • LLM Integration Tools</td>
   </tr>
   <tr>
@@ -298,8 +359,6 @@ fun_fact: I am Iron Man 😎
 
 ---
 
----
-
 <!-- Random Dev Quote -->
 <h2 align="center">✍️ Dev Quote of the Day</h2>
 
@@ -310,10 +369,13 @@ fun_fact: I am Iron Man 😎
 ---
 
 <!-- Collaboration Section -->
-<h2 align="center">🤝 Let's Collaborate!</h2>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40px">
+  Let's Collaborate!
+</h2>
 
 <p align="center">
-  I'm always excited to work on innovative projects in:
+  <em>I'm always excited to work on innovative projects in:</em>
 </p>
 
 <p align="center">
@@ -331,10 +393,13 @@ fun_fact: I am Iron Man 😎
 ---
 
 <!-- Support Section -->
-<h2 align="center">☕ Support My Work</h2>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35px">
+  Support My Work
+</h2>
 
 <p align="center">
-  If you find my projects helpful or interesting, consider supporting me:
+  <em>If you find my projects helpful or interesting, consider supporting me:</em>
 </p>
 
 <p align="center">
@@ -349,6 +414,10 @@ fun_fact: I am Iron Man 😎
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ajmal-uk.ajmal-uk&left_color=crimson&right_color=blue"/>
   <img src="https://komarev.com/ghpvc/?username=ajmal-uk&label=Profile%20Views&color=brightgreen&style=flat"/>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </p>
 
 ---
