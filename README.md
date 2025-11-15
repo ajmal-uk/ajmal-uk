@@ -114,10 +114,10 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Sketch](https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=black)
 
-</div>
 
 ---
 
+</div>
 <!-- Certifications Section - ENHANCED WITH ANIMATION -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBkNDJlZmYyYjllYzMwZWJiMWY0YjY0YTM5ZjA2YjMyYzA4YzQ5YyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/W5eoZHPpUx9sapR0eu/giphy.gif" width="35px">
@@ -159,14 +159,14 @@
 <br/>
 <sub><b>Google Cloud<br/>Arcade</b></sub>
 <br/>
-<sup>⭐ 2024</sup>
+<sup>⭐ 2025</sup>
 </td>
 <td align="center" width="20%">
 <img src="assets/certificates/microsoft_prompt_engineering.png" width="100" alt="Microsoft Copilot"/>
 <br/>
 <sub><b>Prompt Eng.<br/>GitHub Copilot</b></sub>
 <br/>
-<sup>⭐ 2024</sup>
+<sup>⭐ 2025</sup>
 </td>
 </tr>
 </table>
@@ -177,17 +177,31 @@
 <summary><b>📜 View Detailed Certification Information</b></summary>
 <br/>
 
-| 🎓 Certification | 🏢 Issuer | 📅 Year | 🔗 Verify |
-|:----------------|:---------|:-------:|:-------:|
-| Oracle OCI AI Foundations Associate | Oracle | 2025 | ✅ |
-| Oracle AI Agent Studio – Foundations | Oracle | 2025 | ✅ |
-| Data Analytics Virtual Program | Deloitte Australia | 2025 | ✅ |
-| Google Cloud Arcade – Milestone 3 | Google Cloud | 2024 | ✅ |
-| Prompt Engineering with GitHub Copilot | Microsoft | 2024 | ✅ |
+| 🎓 Certification | 🏢 Issuer | 📅 Year |
+|:----------------|:---------|:-------:|
+| Oracle OCI AI Foundations Associate | Oracle | 2025 |
+| Oracle AI Agent Studio – Foundations | Oracle | 2025 |
+| Data Analytics Virtual Program | Deloitte Australia | 2025 |
+| Google Cloud Arcade – Milestone 3 | Google Cloud | 2025 |
+| Prompt Engineering with GitHub Copilot | Microsoft | 2025 |
+| GUVI – Generative AI 101 | GUVI / HCL | 2025 |
+| IBM – Introduction to Software Engineering | IBM / Coursera | 2025 |
 
 </details>
 
 </div>
+
+
+---
+
+## 🎓 Education Roadmap
+
+| Timeline | Education | Institution | Performance |
+|----------|-----------|-------------|-------------|
+| **2025–2027** | 🌟 **Master of Computer Applications** | College of Engineering, Trivandrum | *Ongoing* |
+| **2022–2025** | 🍃 **B.Sc. Computer Science** | Mahatma Gandhi College, Iritty | **89%** |
+| **2020–2022** | 🍀 **Higher Secondary (CS)** | GHSS Ulikkal | **91%** |
+| **2019–2020** | 🌱 **SSLC** | GHSS Ulikkal | |
 
 ---
 
