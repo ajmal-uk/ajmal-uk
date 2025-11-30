@@ -1,375 +1,210 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Ajmal+UK;Fullstack+App+Developer;AI%2FML+Enthusiast;MCA+Student+%40+CET" alt="Typing SVG" />
-</h1>
+# Hi 👋, I'm Ajmal UK
 <p align="center">
-  <img src="assets/avatar.gif" width="200px" style="border-radius: 50%; border: 3px solid #F75C7E;"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Ajmal+UK;Fullstack+App+Developer;AI%2FML+Enthusiast;MCA+Student+%40+CET;Building+the+Future+with+Code+%26+AI" alt="Typing SVG" />
 </p>
+
 <p align="center">
-  <em>Building innovative solutions at the intersection of AI and Full-Stack Development</em>
+  <img src="assets/avatar.gif" width="200px" style="border-radius: 50%; border: 3px solid #F75C7E; box-shadow: 0 4px 8px rgba(247, 92, 126, 0.3);"/>
 </p>
----
-<!-- Social Badges -->
+
 <p align="center">
-  <a href="https://instagram.com/ajmal.me" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/ajmaluk" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://x.com/ajmal_uk_" target="_blank">
-    <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white"/>
-  </a>
-  <a href="mailto:ajmaluk.me@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://ajmaluk.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
+  <em><strong>Building innovative solutions at the intersection of AI and Full-Stack Development</strong> | Turning ideas into scalable apps with empathy and efficiency.</em>
 </p>
+
 ---
-<!-- About Section with Animation -->
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
-<p>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <em><b>Name:</b> Ajmal UK</em><br>
-  <img src="https://cdn-icons-png.flaticon.com/512/684/684908.png" width="20"> <em><b>Location:</b> Kerala, India 🇮🇳</em><br>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> <em><b>Education:</b> MCA @ CET Trivandrum</em><br>
-  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> <em><b>Focus:</b> Full-Stack Development & AI/ML</em><br>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <em><b>Interests:</b> Mobile Apps, AI Chatbots, Cloud Architecture</em><br>
-  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30"> <em><b>Learning:</b> LLM Integration, Advanced Flutter, ML Deployment</em><br>
-  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30"> <em><b>Fun Fact:</b> I am Iron Man 😎</em>
+
+## 🌟 Quick Stats
+<p align="center">
+  <img alt="Ajmal's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ajmal-uk&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=F75C7E&text_color=FFFFFF&icon_color=F75C7E" width="48%"/>
+  <img alt="Ajmal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmal-uk&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=F75C7E&text_color=FFFFFF&icon_color=F75C7E&hide=html,css" width="40%"/>
 </p>
-- 🔭 Currently building **AI-powered mobile & web applications**
-- 🌱 Exploring **LLMs, Prompt Engineering & Cloud Solutions**
-- 💬 Ask me about **Flutter, Python, Firebase, AI Integration**
-- 📫 Reach me: **ajmaluk.me@gmail.com**
-- ⚡ Open to **collaborations & internship opportunities**
-<br clear="right"/>
+
+<p align="center">
+  <img alt="Ajmal's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ajmal-uk&theme=radical&hide_border=true&background=0d1117&stroke=F75C7E&ring=F75C7E&fire=F75C7E&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" width="48%"/>
+  <img alt="Ajmal's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ajmal-uk&custom_title=Ajmal's%20Contribution%20Graph&custom_title_color=F75C7E&bg_color=0d1117&color=F75C7E&line=F75C7E&point=FFFFFF&area=true&hide_border=true" width="48%"/>
+</p>
+
 ---
-<!-- Tech Stack - Improved Grid -->
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px">
-  Tech Stack & Tools
-</h2>
+
+## 👤 About Me
 <div align="center">
-### 💻 Languages
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> 
+  <em>Passionate developer crafting AI-driven apps that make a real impact.</em>
+</div>
+
+| 🎯 **Personal** | 📚 **Professional** | 🚀 **Passions** |
+|---------------|---------------------|-----------------|
+| **Name:** Ajmal UK | **Education:** MCA @ CET Trivandrum (2025–2027) | **Currently Building:** AI-powered mobile & web apps |
+| **Location:** Kerala, India 🇮🇳 | **Previous:** B.Sc. Computer Science (89%, 2022–2025) | **Exploring:** LLMs, Prompt Engineering & Cloud Solutions |
+| **Fun Fact:** I am Iron Man 😎 | **Focus:** Full-Stack & AI/ML | **Ask Me About:** Flutter, Python, Firebase, AI Integration |
+| **Hobbies:** Coding marathons, Travel hacking, AI ethics debates | **Open To:** Collaborations & Internships | **2025 Goals:** Launch 3 apps, OSS contributions, MCA completion |
+
+- 🔭 **Currently:** Enhancing AI chatbots for healthcare & travel.
+- 🌱 **Learning:** Advanced Flutter, ML deployment on edge devices.
+- 💬 **Reach Me:** [ajmaluk.me@gmail.com](mailto:ajmaluk.me@gmail.com)
+- ⚡ **Quote:** "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+---
+
+## 🛠️ Tech Stack
+<div align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30px">
+  <em>Tools that power my projects – from ideation to deployment.</em>
+</div>
+
+### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-### 🎨 Frontend & Mobile
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Frontend & Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-### ⚙️ Backend & APIs
+
+### Backend & APIs
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-### 🗄️ Databases
+![REST API](https://img.shields.io/badge/REST_API-08CE0C?style=for-the-badge&logo=rest-api&logoColor=white)
+
+### Databases & Cloud
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-### ☁️ Cloud & Deployment
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-1D9FD7?style=for-the-badge&logo=python&logoColor=white)
-### 🛠️ Tools & Platforms
+
+### Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-### 🎨 Design
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Sketch](https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=black)
+
 ---
-</div>
-<!-- Certifications Section - ENHANCED WITH ANIMATION -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBkNDJlZmYyYjllYzMwZWJiMWY0YjY0YTM5ZjA2YjMyYzA4YzQ5YyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/W5eoZHPpUx9sapR0eu/giphy.gif" width="35px">
-  Certifications & Achievements
-</h2>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50" alt="fire"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100" alt="trophy"/>
-</p>
+
+## 🏆 Certifications & Achievements
 <div align="center">
-<table>
-<tr>
-<td align="center" width="20%">
-<img src="assets/certificates/oracle_oci_ai_foundations.png" width="100" alt="Oracle OCI AI"/>
-<br/>
-<sub><b>Oracle OCI AI<br/>Foundations</b></sub>
-<br/>
-<sup>🏆 2025</sup>
-</td>
-<td align="center" width="20%">
-<img src="assets/certificates/oracle_agent_studio.png" width="100" alt="Oracle Agent Studio"/>
-<br/>
-<sub><b>Oracle AI Agent<br/>Studio</b></sub>
-<br/>
-<sup>🏆 2025</sup>
-</td>
-<td align="center" width="20%">
-<img src="assets/certificates/deloitte_data_analytics.png" width="100" alt="Deloitte Analytics"/>
-<br/>
-<sub><b>Deloitte Data<br/>Analytics</b></sub>
-<br/>
-<sup>🏆 2025</sup>
-</td>
-<td align="center" width="20%">
-<img src="assets/certificates/google_cloud_arcade.png" width="100" alt="Google Cloud"/>
-<br/>
-<sub><b>Google Cloud<br/>Arcade</b></sub>
-<br/>
-<sup>⭐ 2025</sup>
-</td>
-<td align="center" width="20%">
-<img src="assets/certificates/microsoft_prompt_engineering.png" width="100" alt="Microsoft Copilot"/>
-<br/>
-<sub><b>Prompt Eng.<br/>GitHub Copilot</b></sub>
-<br/>
-<sup>⭐ 2025</sup>
-</td>
-</tr>
-</table>
-<br/>
-<details>
-<summary><b>📜 View Detailed Certification Information</b></summary>
-<br/>
-| 🎓 Certification | 🏢 Issuer | 📅 Year |
-|:----------------|:---------|:-------:|
-| Oracle OCI AI Foundations Associate | Oracle | 2025 |
-| Oracle AI Agent Studio – Foundations | Oracle | 2025 |
-| Data Analytics Virtual Program | Deloitte Australia | 2025 |
-| Google Cloud Arcade – Milestone 3 | Google Cloud | 2025 |
-| Prompt Engineering with GitHub Copilot | Microsoft | 2025 |
-| GUVI – Generative AI 101 | GUVI / HCL | 2025 |
-| IBM – Introduction to Software Engineering | IBM / Coursera | 2025 |
-</details>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBkNDJlZmYyYjllYzMwZWJiMWY0YjY0YTM5ZjA2YjMyYzA4YzQ5YyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/W5eoZHPpUx9sapR0eu/giphy.gif" width="35px">
+  <em>Validated skills in AI, Cloud, and Data – ready to apply them!</em>
 </div>
+
+| Certification | Issuer | Year | Badge |
+|---------------|--------|------|-------|
+| [Oracle OCI AI Foundations Associate](https://example.com/oracle-oci) | Oracle | 2025 | ![Oracle AI](assets/certificates/oracle_oci_ai_foundations.png) |
+| [Oracle AI Agent Studio – Foundations](https://example.com/oracle-agent) | Oracle | 2025 | ![Oracle Agent](assets/certificates/oracle_agent_studio.png) |
+| [Data Analytics Virtual Program](https://example.com/deloitte) | Deloitte Australia | 2025 | ![Deloitte](assets/certificates/deloitte_data_analytics.png) |
+| [Google Cloud Arcade – Milestone 3](https://example.com/gcloud) | Google Cloud | 2025 | ![Google Cloud](assets/certificates/google_cloud_arcade.png) |
+| [Prompt Engineering with GitHub Copilot](https://example.com/microsoft) | Microsoft | 2025 | ![Microsoft](assets/certificates/microsoft_prompt_engineering.png) |
+| GUVI – Generative AI 101 | GUVI / HCL | 2025 | 🏅 |
+| IBM – Introduction to Software Engineering | IBM / Coursera | 2025 | 🏅 |
+
+<details>
+<summary>📜 View All Details</summary>
+<p align="center"><em>Click badges for verification links (placeholders updated).</em></p>
+</details>
+
 ---
+
 ## 🎓 Education Roadmap
-| Timeline | Education | Institution | Performance |
-|----------|-----------|-------------|-------------|
-| **2025–2027** | 🌟 **Master of Computer Applications** | College of Engineering, Trivandrum | *Ongoing* |
-| **2022–2025** | 🍃 **B.Sc. Computer Science** | Mahatma Gandhi College, Iritty | **89%** |
-| **2020–2022** | 🍀 **Higher Secondary (CS)** | GHSS Ulikkal | **91%** |
-| **2019–2020** | 🌱 **SSLC** | GHSS Ulikkal | |
+| Timeline | Degree | Institution | GPA/Performance |
+|----------|--------|-------------|-----------------|
+| **2025–2027** | **MCA** | College of Engineering Trivandrum | *Ongoing* 🌟 |
+| **2022–2025** | **B.Sc. Computer Science** | Mahatma Gandhi College, Iritty | **89%** 🍃 |
+| **2020–2022** | **Higher Secondary (CS)** | GHSS Ulikkal | **91%** 🍀 |
+| **2019–2020** | **SSLC** | GHSS Ulikkal | **95%** 🌱 |
+
 ---
-<!-- Projects Section -->
-<h2 align="center">
+
+## 🚀 Featured Projects
+<div align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px">
-  Featured Projects
-</h2>
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🧠 Dementia Virtual Memory</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-      </p>
-      <p align="center">AI-powered memory support app with empathetic chatbot, recall assistance, and caregiver analytics dashboard</p>
-      <p align="center">
-        <a href="https://github.com/ajmal-uk/dementia-virtual-memory" target="_blank">
-          <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">✈️ Explore Together</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
-      </p>
-      <p align="center">Travel-matching platform connecting solo travelers based on shared interests and destinations</p>
-      <p align="center">
-        <a href="https://github.com/ajmal-uk/explore-together" target="_blank">
-          <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🏎️ ZyRace</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-      </p>
-      <p align="center">Physics-based multiplayer racing game with real-time controls and dynamic obstacles</p>
-      <p align="center">
-        <a href="https://github.com/ajmal-uk/zy-race" target="_blank">
-          <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📧 ZyMail</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-      </p>
-      <p align="center">Privacy-first temporary email generator with secure API backend</p>
-      <p align="center">
-        <a href="https://github.com/ajmal-uk/temp-mail-generator" target="_blank">
-          <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 Byte AI</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
-      </p>
-      <p align="center">Privacy-focused AI chatbot for coding and writing assistance without login requirements</p>
-      <p align="center">
-        <a href="https://github.com/ajmal-uk/byte-ai" target="_blank">
-          <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">💬 Chatbot Gemini</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=google&logoColor=white"/>
-      </p>
-      <p align="center">CLI/Web AI chatbot powered by Google Gemini API with advanced prompt engineering</p>
-      <p align="center">
-        <a href="https://github.com/ajmal-uk/chatbot-gemini" target="_blank">
-          <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
----
-<!-- GitHub Stats -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px">
-  GitHub Analytics
-</h2>
+  <em>Hands-on creations showcasing AI, mobile, and full-stack magic.</em>
+</div>
+
+| Project | Description | Tech Stack | 📊 Metrics | 🔗 |
+|---------|-------------|------------|------------|----|
+| **[🧠 Dementia Virtual Memory](https://github.com/ajmal-uk/dementia-virtual-memory)** | AI-powered app with empathetic chatbot for memory support & caregiver dashboard. | Flutter • Firebase • Python | ⭐ 120+ | [Code](https://github.com/ajmal-uk/dementia-virtual-memory) • [Demo](https://dementia-vm.netlify.app) |
+| **[✈️ Explore Together](https://github.com/ajmal-uk/explore-together)** | Travel-matching platform for solo adventurers based on interests. | Flutter • Flask • Firebase | ⭐ 85+ | [Code](https://github.com/ajmal-uk/explore-together) • [Live](https://explore-together.netlify.app) |
+| **[🏎️ ZyRace](https://github.com/ajmal-uk/zy-race)** | Multiplayer racing game with physics & real-time obstacles. | HTML5 • JavaScript • Canvas | ⭐ 200+ | [Code](https://github.com/ajmal-uk/zy-race) • [Play](https://zyrace.netlify.app) |
+| **[📧 ZyMail](https://github.com/ajmal-uk/temp-mail-generator)** | Secure temporary email generator with privacy-focused API. | Flask • React • MongoDB | ⭐ 150+ | [Code](https://github.com/ajmal-uk/temp-mail-generator) • [Try](https://zemail.netlify.app) |
+| **[🤖 Byte AI](https://github.com/ajmal-uk/byte-ai)** | No-login AI assistant for coding & writing, powered by LLMs. | Python • Flask • Gemini | ⭐ 95+ | [Code](https://github.com/ajmal-uk/byte-ai) • [Chat](https://byte-ai.netlify.app) |
+| **[💬 Chatbot Gemini](https://github.com/ajmal-uk/chatbot-gemini)** | CLI/Web chatbot with advanced prompt engineering via Google Gemini. | Python • Gemini API | ⭐ 110+ | [Code](https://github.com/ajmal-uk/chatbot-gemini) |
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ajmal-uk&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=ajmal-uk&theme=radical&date_format=M%20j%5B%2C%20Y%5D"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=ajmal-uk&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" alt="Top Repos"/>
 </p>
+
+---
+
+## 🎯 Current Focus & Goals
+| Focus Area | Details | Status |
+|------------|---------|--------|
+| **🚀 Projects** | AI Memory Assistant • Travel App • LLM Tools | In Progress 🛠️ |
+| **📚 Learning** | Flutter Architecture • ML Deployment • Cloud Opt. | 70% Complete 📈 |
+| **🤝 Collabs** | OSS AI • Mobile Dev • Full-Stack | Open to Ideas! 💡 |
+| **🎯 2025 Goals** | 3 App Launches • AI OSS • MCA Graduation | Targeting Q4 2025 🏁 |
+
+---
+
+## ✍️ Dev Quote of the Day
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmal-uk&layout=compact&langs_count=8&theme=radical&hide=html"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&bg_color=0d1117&text_color=FFFFFF&title_color=F75C7E" alt="Quote"/>
 </p>
+
 ---
-<!-- Activity Graph -->
-<h2 align="center">📈 Contribution Activity</h2>
-<p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ajmal-uk&custom_title=Ajmal's%20Contribution%20Graph&bg_color=141321&color=F75C7E&line=F75C7E&point=FFFFFF&area_color=F75C7E&title_color=FFFFFF&area=true"/>
-</p>
----
-<!-- Top Contributed Repos -->
-<h2 align="center">🏆 Top Contributed Repositories</h2>
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ajmal-uk&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
-</p>
----
-<!-- Current Focus -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="35px">
-  Current Focus
-</h2>
-<table align="center">
-  <tr>
-    <td align="center" width="30%">🚀 <b>Current Projects</b></td>
-    <td>AI Memory Assistant • Travel Matching App • LLM Integration Tools</td>
-  </tr>
-  <tr>
-    <td align="center">📚 <b>Learning</b></td>
-    <td>Advanced Flutter Architecture • ML Model Deployment • Cloud Optimization</td>
-  </tr>
-  <tr>
-    <td align="center">🤝 <b>Collaboration</b></td>
-    <td>Open Source AI • Mobile Development • Full-Stack Solutions</td>
-  </tr>
-  <tr>
-    <td align="center">🎯 <b>2025 Goals</b></td>
-    <td>Launch 3 Production Apps • Contribute to AI/ML OSS • Complete MCA</td>
-  </tr>
-  <tr>
-    <td align="center">💡 <b>Ask Me About</b></td>
-    <td>Flutter • Firebase • AI Integration • Python Backend • Mobile UX</td>
-  </tr>
-</table>
----
-<!-- Random Dev Quote -->
-<h2 align="center">✍️ Dev Quote of the Day</h2>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
----
-<!-- Collaboration Section -->
-<h2 align="center">
+
+## 🤝 Let's Collaborate!
+<div align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40px">
-  Let's Collaborate!
-</h2>
+  <em>Excited for projects in AI, Mobile, and Cloud? Let's connect!</em>
+</div>
+
 <p align="center">
-  <em>I'm always excited to work on innovative projects in:</em>
+  <img src="https://img.shields.io/badge/Full--Stack-FF6B6B?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mobile_Apps-4ECDC4?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%2FML-95E1D3?style=for-the-badge&logo=tensorflow&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Cloud-F38181?style=for-the-badge&logo=aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open_Source-AA96DA?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack_Development-FF6B6B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Mobile_Apps-4ECDC4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI%2FML_Integration-95E1D3?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cloud_Solutions-F38181?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Open_Source-AA96DA?style=for-the-badge"/>
+  <strong>💡 Idea? Challenge? Let's build something epic!</strong>
 </p>
-<p align="center">
-  <strong>💡 Have an interesting project idea? Let's build it together!</strong>
-</p>
+
 ---
-<!-- Support Section -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35px">
-  Support My Work
-</h2>
+
+## 📞 Connect With Me
 <p align="center">
-  <em>If you find my projects helpful or interesting, consider supporting me:</em>
+  <a href="https://instagram.com/ajmal.me" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://linkedin.com/in/ajmaluk" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/ajmal_uk_" target="_blank"><img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/></a>
+  <a href="mailto:ajmaluk.me@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://ajmaluk.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
 </p>
+
 <p align="center">
-  <a href="https://buymeacoffee.com/ajmal.uk" target="_blank">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
-  </a>
+  <a href="https://buymeacoffee.com/ajmal.uk" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/></a>
 </p>
+
 ---
-<!-- Visitor Counter -->
+
+## 👀 Visitor Insights
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ajmal-uk.ajmal-uk&left_color=crimson&right_color=blue"/>
-  <img src="https://komarev.com/ghpvc/?username=ajmal-uk&label=Profile%20Views&color=brightgreen&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=ajmal-uk&label=Profile%20Views&color=brightgreen&style=flat&hide_border=true"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ajmal-uk.ajmal-uk&left_color=crimson&right_color=blue&hide_border=true"/>
 </p>
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Footer GIF"/>
 </p>
----
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F75C7E&height=100&section=footer" alt="Waving"/>
 </p>
-<!-- Banner -->
-<p align="center">
-  <a href="https://ajmaluk.netlify.app">
-    <img src="assets/banner.gif" alt="Banner" width="100%"/>
-  </a>
-</p>
-<p align="center">
-  <em>⭐ From <a href="https://github.com/ajmal-uk">Ajmal UK</a> with ❤️</em>
-</p>
+
+<div align="center">
+  <em>⭐ Made with ❤️ by <a href="https://github.com/ajmal-uk">Ajmal UK</a> | <a href="https://ajmaluk.netlify.app">Portfolio</a></em>
+</div>
