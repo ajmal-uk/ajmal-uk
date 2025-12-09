@@ -1,52 +1,91 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=1000&color=FF6B9D&center=true&vCenter=true&repeat=false&width=700&lines=Hi+%F0%9F%91%8B+I'm+Ajmal+UK;Full-Stack+%7C+AI+%7C+Mobile;MCA+Student+%40+CET" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Ajmal+UK;Fullstack+App+Developer;AI%2FML+Enthusiast;MCA+Student+%40+CET" alt="Typing SVG" />
 </h1>
 
-<div align="center">
-  <img src="https://github.com/ajmal-uk/ajmal-uk/blob/main/assets/profile.gif?raw=true" width="220" style="border-radius:50%; border:5px solid #FF6B9D; box-shadow: 0 0 30px rgba(255,107,157,0.6);" alt="Ajmal UK"/>
-  <br><br>
-  <em><strong>Turning caffeine into code & ideas into reality</strong> ☕ → 🚀</em>
-</div>
+<p align="center">
+  <img src="https://github.com/ajmal-uk/ajmal-uk/blob/main/assets/profile.gif?raw=true" width="200px" style="border-radius: 50%; border: 3px solid #F75C7E; box-shadow: 0 0 20px rgba(247,92,126,0.6);" alt="Ajmal UK"/>
+</p>
 
 <p align="center">
-  <a href="https://instagram.com/ajmal.me" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ajmaluk" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/ajmal_uk_" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="mailto:ajmaluk.me@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://ajmaluk.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+  <em>Building innovative solutions at the intersection of AI and Full-Stack Development</em>
 </p>
 
 ---
 
-<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding Gif"/>
+<p align="center">
+  <a href="https://instagram.com/ajmal.me" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/ajmaluk" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/ajmal_uk_" target="_blank">
+    <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white"/>
+  </a>
+  <a href="mailto:ajmaluk.me@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://ajmaluk.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
 
-### 🔥 About Me
+---
 
-- 🧠 **MCA Student** @ **College of Engineering Trivandrum** (CET)
-- 🌍 From **Kerala, India** 🇮🇳
-- ⚡ Focused on building **AI-powered applications** that solve real problems
-- 💡 Mastering **LLM Integration**, **Advanced Flutter**, & **Cloud-native ML**
-- 💬 Ask me about: **Flutter, Python, Firebase, Gemini API**
-- 🎯 **2026 Goal**: Launch 3 production-grade AI apps & contribute actively to OSS.
-- ⚡ Fun fact: **I am Iron Man** (The suit is in the workshop 🦾)
+<img align="right" alt="Coding" width="400" src="https://github.com/ajmal-uk/ajmal-uk/blob/main/assets/coding-right.gif?raw=true"/>
 
-> *"Code is like humor. When you have to explain it, it’s bad."* – Ajmal UK
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
+
+<p>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <em><b>Name:</b> Ajmal UK</em><br>
+  <img src="https://cdn-icons-png.flaticon.com/512/684/684908.png" width="20"> <em><b>Location:</b> Kerala, India 🇮🇳</em><br>
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> <em><b>Education:</b> MCA @ CET Trivandrum</em><br>
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> <em><b>Focus:</b> Full-Stack Development & AI/ML</em><br>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <em><b>Interests:</b> Mobile Apps, AI Chatbots, Cloud Architecture</em><br>
+  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30"> <em><b>Learning:</b> LLM Integration, Advanced Flutter, ML Deployment</em><br>
+  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30"> <em><b>Fun Fact:</b> I am Iron Man 😎</em>
+</p>
+
+- 🔭 Currently building **AI-powered mobile & web applications**
+- 🌱 Exploring **LLMs, Prompt Engineering & Cloud Solutions**
+- 💬 Ask me about **Flutter, Python, Firebase, AI Integration**
+- 📫 Reach me: **ajmaluk.me@gmail.com**
+- ⚡ Open to **collaborations & internship opportunities**
 
 <br clear="right"/>
 
 ---
 
-## 🏆 Certifications & Achievements ✨
-*Organizing certifications in one line, as requested.*
+<h2 align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBkNDJlZmYyYjllYzMwZWJiMWY0YjY0YTM5ZjA2YjMyYzA4YzQ5YyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/W5eoZHPpUx9sapR0eu/giphy.gif" width="35px">
+  Certifications & Achievements
+</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Oracle_OCI_AI_Foundations-FF6B9D?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle OCI AI Foundations"/>
-  <img src="https://img.shields.io/badge/Oracle_AI_Agent_Studio-FF6B9D?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle AI Agent Studio"/>
+  <img src="https://img.shields.io/badge/Oracle_OCI_AI_Foundations-F75C7E?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle OCI AI Foundations"/>
+  <img src="https://img.shields.io/badge/Oracle_AI_Agent_Studio-F75C7E?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle AI Agent Studio"/>
   <img src="https://img.shields.io/badge/Deloitte_Data_Analytics-00A3E0?style=for-the-badge" alt="Deloitte Data Analytics"/>
   <img src="https://img.shields.io/badge/Google_Cloud_Arcade-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Arcade"/>
   <img src="https://img.shields.io/badge/Prompt_Engineering_With_Copilot-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Copilot Prompt Eng."/>
-  <img src="https://img.shields.io/badge/Generative_AI_101-4479A1?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GUVI Generative AI"/>
 </p>
+
+<div align="center">
+<details>
+<summary><b>📜 View Detailed Certification Information (2025)</b></summary>
+<br/>
+
+| 🎓 Certification | 🏢 Issuer | 📅 Year |
+|:----------------|:---------|:-------:|
+| Oracle OCI AI Foundations Associate | Oracle | 2025 |
+| Oracle AI Agent Studio – Foundations | Oracle | 2025 |
+| Data Analytics Virtual Program | Deloitte Australia | 2025 |
+| Google Cloud Arcade – Milestone 3 | Google Cloud | 2025 |
+| Prompt Engineering with GitHub Copilot | Microsoft | 2025 |
+| GUVI – Generative AI 101 | GUVI / HCL | 2025 |
+| IBM – Introduction to Software Engineering | IBM / Coursera | 2025 |
+
+</details>
+</div>
 
 ---
 
@@ -55,19 +94,39 @@
 <div align="center">
 
 ### 💻 Languages
-<img src="https://skillicons.dev/icons?i=python,dart,js,java,cpp,c&perline=6"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ### 🎨 Frontend & Mobile
-<img src="https://skillicons.dev/icons?i=flutter,react,html,css,tailwind&perline=6"/>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚙️ Backend & AI
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,firebase,supabase&perline=6"/>
+### ⚙️ Backend & APIs
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 🗄️ Databases & Cloud
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase,gcp,aws,vercel,netlify&perline=6"/>
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### 🛠️ Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman,figma,docker&perline=6"/>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
@@ -75,14 +134,67 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack | Live | Code |
-|:--------|:-------------|:-----------|:-----|:-----|
-| 🧠 **Dementia Virtual Memory** | AI memory assistant with empathetic chatbot & caregiver dashboard | Flutter • Firebase • Python • **Gemini** | [Demo](https://dementia-memory.web.app) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat&logo=github)](https://github.com/ajmal-uk/dementia-virtual-memory) |
-| ✈️ **Explore Together** | Match solo travelers by vibe & destination | Flutter • Flask • Firebase Auth | *Coming Soon* | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat&logo=github)](https://github.com/ajmal-uk/explore-together) |
-| 🤖 **Byte AI** | No-login, privacy-first AI coding/writing assistant | FastAPI • **Gemini** • Streaming UI | [ajmaluk.live](https://byte-ai.ajmaluk.live) | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat&logo=github)](https://github.com/ajmal-uk/byte-ai) |
-| 💬 **Chatbot Gemini CLI/Web** | Feature-rich Gemini wrapper with memory & tools | Python • Rich • Streamlit | — | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat&logo=github)](https://github.com/ajmal-uk/chatbot-gemini) |
-| 🏎️ **ZyRace** | Physics-based multiplayer racing game | HTML5 • JavaScript | — | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat&logo=github)](https://github.com/ajmal-uk/zy-race) |
-| 📧 **ZyMail** | Privacy-first temporary email generator with secure API | Flask • React | — | [![GitHub](https://img.shields.io/badge/Code-181717?style=flat&logo=github)](https://github.com/ajmal-uk/temp-mail-generator) |
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 Dementia Virtual Memory</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+      </p>
+      <p align="center">AI-powered memory support app with empathetic chatbot, recall assistance, and caregiver analytics dashboard</p>
+      <p align="center">
+        <a href="https://github.com/ajmal-uk/dementia-virtual-memory" target="_blank">
+          <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">✈️ Explore Together</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+      </p>
+      <p align="center">Travel-matching platform connecting solo travelers based on shared interests and destinations</p>
+      <p align="center">
+        <a href="https://github.com/ajmal-uk/explore-together" target="_blank">
+          <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 Byte AI</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=google&logoColor=white"/>
+      </p>
+      <p align="center">Privacy-focused AI chatbot for coding and writing assistance without login requirements</p>
+      <p align="center">
+        <a href="https://github.com/ajmal-uk/byte-ai" target="_blank">
+          <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">💬 Chatbot Gemini</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=google&logoColor=white"/>
+      </p>
+      <p align="center">CLI/Web AI chatbot powered by Google Gemini API with advanced prompt engineering</p>
+      <p align="center">
+        <a href="https://github.com/ajmal-uk/chatbot-gemini" target="_blank">
+          <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 > More projects → [github.com/ajmal-uk?tab=repositories](https://github.com/ajmal-uk?tab=repositories)
 
@@ -90,42 +202,101 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ajmal-uk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&line_height=20" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=ajmal-uk&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</div>
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajmal-uk&theme=tokyo-night&hide_border=true&point=FF6B9D&area=true&area_color=FF6B9D20" alt="Contribution Graph" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ajmal-uk&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=ajmal-uk&theme=radical&date_format=M%20j%5B%2C%20Y%5D"/>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmal-uk&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=html" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmal-uk&layout=compact&langs_count=8&theme=radical&hide=html"/>
 </p>
 
----
-
-## 🤝 Let's Collaborate!
-
-**I'm open to:**
-* Full-Stack / Mobile / AI Freelance
-* Open-source contributions (especially Flutter + AI)
-* Research collaborations
-* Internship opportunities
-
+<h2 align="center">📈 Contribution Activity</h2>
 <p align="center">
-  <a href="https://cal.com/ajmaluk/30min" target="_blank"><img src="https://img.shields.io/badge/Schedule_a_Call-00C7B7?style=for-the-badge&logo=calendar&logoColor=white" /></a>
-  <a href="https://buymeacoffee.com/ajmal.uk" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ajmal-uk&custom_title=Ajmal's%20Contribution%20Graph&bg_color=141321&color=F75C7E&line=F75C7E&point=FFFFFF&area_color=F75C7E&title_color=FFFFFF&area=true"/>
 </p>
 
 ---
 
-<div align="center">
+<h2 align="center">
+  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="35px">
+  Current Focus
+</h2>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF6B9D,0D1117,111720&height=180&section=footer&fontSize=22&fontAlignY=58&animation=twinkling"/>
+<table align="center">
+  <tr>
+    <td align="center" width="30%">🚀 <b>Current Projects</b></td>
+    <td>AI Memory Assistant • Travel Matching App • LLM Integration Tools</td>
+  </tr>
+  <tr>
+    <td align="center">📚 <b>Learning</b></td>
+    <td>Advanced Flutter Architecture • ML Model Deployment • Cloud Optimization</td>
+  </tr>
+  <tr>
+    <td align="center">🤝 <b>Collaboration</b></td>
+    <td>Open Source AI • Mobile Development • Full-Stack Solutions</td>
+  </tr>
+  <tr>
+    <td align="center">🎯 <b>2025 Goals</b></td>
+    <td>Launch 3 Production Apps • Contribute to AI/ML OSS • Complete MCA</td>
+  </tr>
+  <tr>
+    <td align="center">💡 <b>Ask Me About</b></td>
+    <td>Flutter • Firebase • AI Integration • Python Backend • Mobile UX</td>
+  </tr>
+</table>
 
-**Ajmal UK** • Crafting tomorrow, today ✨  
-<img src="https://visitor-badge.laobi.icu/badge?page_id=ajmal-uk.ajmal-uk" alt="Visitor Count"/> • 
-<img src="https://komarev.com/ghpvc/?username=ajmal-uk&color=FF6B9D" alt="Profile Views"/>
+---
 
-</div>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40px">
+  Let's Collaborate!
+</h2>
+
+<p align="center">
+  <em>I'm always excited to work on innovative projects in:</em>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Full--Stack_Development-FF6B6B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Mobile_Apps-4ECDC4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%2FML_Integration-95E1D3?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cloud_Solutions-F38181?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open_Source-AA96DA?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <strong>💡 Have an interesting project idea? Let's build it together!</strong>
+</p>
+
+---
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35px">
+  Support My Work
+</h2>
+
+<p align="center">
+  <em>If you find my projects helpful or interesting, consider supporting me:</em>
+</p>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/ajmal.uk" target="_blank">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ajmal-uk.ajmal-uk&left_color=crimson&right_color=blue" alt="Visitor Count"/>
+  <img src="https://komarev.com/ghpvc/?username=ajmal-uk&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
+<p align="center">
+  <em>⭐ From <a href="https://github.com/ajmal-uk">Ajmal UK</a> with ❤️</em>
+</p>
