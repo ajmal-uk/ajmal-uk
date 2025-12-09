@@ -62,6 +62,11 @@
 </h2>
 
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50" alt="fire"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100" alt="trophy"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Oracle_OCI_AI_Foundations-F75C7E?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle OCI AI Foundations"/>
   <img src="https://img.shields.io/badge/Oracle_AI_Agent_Studio-F75C7E?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle AI Agent Studio"/>
   <img src="https://img.shields.io/badge/Deloitte_Data_Analytics-00A3E0?style=for-the-badge" alt="Deloitte Data Analytics"/>
@@ -70,8 +75,51 @@
 </p>
 
 <div align="center">
+
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://github.com/ajmal-uk/ajmal-uk/blob/main/assets/certificates/oracle_oci_ai_foundations.png?raw=true" width="100" alt="Oracle OCI AI"/>
+<br/>
+<sub><b>Oracle OCI AI<br/>Foundations</b></sub>
+<br/>
+<sup>🏆 2025</sup>
+</td>
+<td align="center" width="20%">
+<img src="https://github.com/ajmal-uk/ajmal-uk/blob/main/assets/certificates/oracle_agent_studio.png?raw=true" width="100" alt="Oracle Agent Studio"/>
+<br/>
+<sub><b>Oracle AI Agent<br/>Studio</b></sub>
+<br/>
+<sup>🏆 2025</sup>
+</td>
+<td align="center" width="20%">
+<img src="https://github.com/ajmal-uk/ajmal-uk/blob/main/assets/certificates/deloitte_data_analytics.png?raw=true" width="100" alt="Deloitte Analytics"/>
+<br/>
+<sub><b>Deloitte Data<br/>Analytics</b></sub>
+<br/>
+<sup>🏆 2025</sup>
+</td>
+<td align="center" width="20%">
+<img src="https://github.com/ajmal-uk/ajmal-uk/blob/main/assets/certificates/google_cloud_arcade.png?raw=true" width="100" alt="Google Cloud"/>
+<br/>
+<sub><b>Google Cloud<br/>Arcade</b></sub>
+<br/>
+<sup>⭐ 2025</sup>
+</td>
+<td align="center" width="20%">
+<img src="https://github.com/ajmal-uk/ajmal-uk/blob/main/assets/certificates/microsoft_prompt_engineering.png?raw=true" width="100" alt="Microsoft Copilot"/>
+<br/>
+<sub><b>Prompt Eng.<br/>GitHub Copilot</b></sub>
+<br/>
+<sup>⭐ 2025</sup>
+</td>
+</tr>
+</table>
+
+<br/>
+
 <details>
-<summary><b>📜 View Detailed Certification Information (2025)</b></summary>
+<summary><b>📜 View Detailed Certification Information</b></summary>
 <br/>
 
 | 🎓 Certification | 🏢 Issuer | 📅 Year |
@@ -85,11 +133,26 @@
 | IBM – Introduction to Software Engineering | IBM / Coursera | 2025 |
 
 </details>
+
 </div>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🎓 Education Roadmap
+
+| Timeline | Education | Institution | Performance |
+|----------|-----------|-------------|-------------|
+| **2025–2027** | 🌟 **Master of Computer Applications** | College of Engineering, Trivandrum | *Ongoing* |
+| **2022–2025** | 🍃 **B.Sc. Computer Science** | Mahatma Gandhi College, Iritty | **89%** |
+| **2020–2022** | 🍀 **Higher Secondary (CS)** | GHSS Ulikkal | **91%** |
+| **2019–2020** | 🌱 **SSLC** | GHSS Ulikkal | |
+
+---
+
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> 
+  Tech Stack & Tools
+</h2>
 
 <div align="center">
 
@@ -132,7 +195,10 @@
 
 ---
 
-## 🚀 Featured Projects
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px">
+  Featured Projects
+</h2>
 
 <table align="center">
   <tr>
@@ -194,13 +260,42 @@
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🏎️ ZyRace</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+      </p>
+      <p align="center">Physics-based multiplayer racing game with real-time controls and dynamic obstacles</p>
+      <p align="center">
+        <a href="https://github.com/ajmal-uk/zy-race" target="_blank">
+          <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📧 ZyMail</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+      </p>
+      <p align="center">Privacy-first temporary email generator with secure API backend</p>
+      <p align="center">
+        <a href="https://github.com/ajmal-uk/temp-mail-generator" target="_blank">
+          <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
 </table>
-
-> More projects → [github.com/ajmal-uk?tab=repositories](https://github.com/ajmal-uk?tab=repositories)
 
 ---
 
-## 📊 GitHub Analytics
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px">
+  GitHub Analytics
+</h2>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ajmal-uk&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -212,6 +307,7 @@
 </p>
 
 <h2 align="center">📈 Contribution Activity</h2>
+
 <p align="center">
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ajmal-uk&custom_title=Ajmal's%20Contribution%20Graph&bg_color=141321&color=F75C7E&line=F75C7E&point=FFFFFF&area_color=F75C7E&title_color=FFFFFF&area=true"/>
 </p>
@@ -294,7 +390,17 @@
 </p>
 
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Footer Divider"/>
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
+<p align="center">
+  <a href="https://ajmaluk.netlify.app">
+    <img src="https://github.com/ajmal-uk/ajmal-uk/blob/main/assets/banner.gif?raw=true" alt="Banner" width="100%"/>
+  </a>
 </p>
 
 <p align="center">
