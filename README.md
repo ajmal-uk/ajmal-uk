@@ -293,18 +293,18 @@
 ---
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px">
-  GitHub Analytics
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px">
+  GitHub Analytics
 </h2>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ajmal-uk&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=ajmal-uk&theme=radical&date_format=M%20j%5B%2C%20Y%5D"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ajmal-uk&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ajmal-uk&theme=dark&hide_border=false" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmal-uk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmal-uk&layout=compact&langs_count=8&theme=radical&hide=html"/>
-</p>
 
 <h2 align="center">📈 Contribution Activity</h2>
 
