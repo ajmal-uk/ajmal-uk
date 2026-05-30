@@ -29,29 +29,29 @@
 
 <table>
   <tr>
-    <th>Project</th>
-    <th>Description</th>
-    <th>Link</th>
+    <th align="center">Project</th>
+    <th align="center">Description</th>
+    <th align="center">Link</th>
   </tr>
   <tr>
-    <td><b>ToolPix</b></td>
-    <td>AI and utility tools platform</td>
-    <td><a href="https://toolpix.pythonanywhere.com">Visit</a></td>
+    <td align="center"><b>ToolPix</b></td>
+    <td align="center">AI and utility tools platform</td>
+    <td align="center"><a href="https://toolpix.pythonanywhere.com">Visit</a></td>
   </tr>
   <tr>
-    <td><b>KallanCop</b></td>
-    <td>Local multiplayer social deduction game</td>
-    <td><a href="https://play.google.com/store/apps/details?id=com.ajmal.kallancop">Play Store</a></td>
+    <td align="center"><b>KallanCop</b></td>
+    <td align="center">Local multiplayer social deduction game</td>
+    <td align="center"><a href="https://play.google.com/store/apps/details?id=com.ajmal.kallancop">Play Store</a></td>
   </tr>
   <tr>
-    <td><b>Portfolio</b></td>
-    <td>Personal portfolio website</td>
-    <td><a href="https://ajmal.uthakkan.in">Visit</a></td>
+    <td align="center"><b>Portfolio</b></td>
+    <td align="center">Personal portfolio website</td>
+    <td align="center"><a href="https://ajmal.uthakkan.in">Visit</a></td>
   </tr>
   <tr>
-    <td><b>UTHAKKAN</b></td>
-    <td>Brand/company for my digital products</td>
-    <td><a href="https://www.uthakkan.in">Visit</a></td>
+    <td align="center"><b>UTHAKKAN</b></td>
+    <td align="center">Brand/company for my digital products</td>
+    <td align="center"><a href="https://www.uthakkan.in">Visit</a></td>
   </tr>
 </table>
 
@@ -73,13 +73,19 @@
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ajmaluk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ajmal UK GitHub Stats" />
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ajmaluk&theme=tokyonight&hide_border=true" alt="Ajmal UK GitHub Streak" />
+<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajmaluk&theme=tokyonight" alt="GitHub Profile Summary" />
 
 <br/><br/>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmaluk&layout=compact&theme=tokyonight&hide_border=true" alt="Ajmal UK Top Languages" />
+<img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajmaluk&theme=tokyonight" alt="Repos Per Language" />
+
+<img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajmaluk&theme=tokyonight" alt="Most Commit Language" />
+
+<br/><br/>
+
+<img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ajmaluk&theme=tokyonight" alt="GitHub Stats" />
+
+<img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajmaluk&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
 
 </div>
 
@@ -87,33 +93,35 @@
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://in.linkedin.com/in/ajmaluk" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Ajmal%20UK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/ajmaluk" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-ajmaluk-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/ajmaluk.me" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-ajmaluk.me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="mailto:ajmaluk.me@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ajmaluk.me%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://ajmal.uthakkan.in" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-ajmal.uthakkan.in-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.uthakkan.in" target="_blank">
-    <img src="https://img.shields.io/badge/UTHAKKAN-Official-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+<a href="https://in.linkedin.com/in/ajmaluk" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Ajmal%20UK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/ajmaluk" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-ajmaluk-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://instagram.com/ajmaluk.me" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-ajmaluk.me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<a href="mailto:ajmaluk.me@gmail.com">
+  <img src="https://img.shields.io/badge/Email-ajmaluk.me%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://ajmal.uthakkan.in" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-ajmal.uthakkan.in-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.uthakkan.in" target="_blank">
+  <img src="https://img.shields.io/badge/UTHAKKAN-Official-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
