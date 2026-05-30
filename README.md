@@ -77,15 +77,15 @@
 
 <br/><br/>
 
-<img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajmaluk&theme=tokyonight" alt="Repos Per Language" />
-
-<img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajmaluk&theme=tokyonight" alt="Most Commit Language" />
+<img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajmaluk&theme=tokyonight" alt="Top Languages by Repo" />
+&nbsp;
+<img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajmaluk&theme=tokyonight" alt="Top Languages by Commit" />
 
 <br/><br/>
 
 <img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ajmaluk&theme=tokyonight" alt="GitHub Stats" />
-
-<img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajmaluk&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+&nbsp;
+<img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=ajmaluk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
