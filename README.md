@@ -73,19 +73,19 @@
 
 <div align="center">
 
-<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajmaluk&theme=tokyonight" alt="GitHub Profile Summary" />
+<img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajmaluk&theme=tokyonight" alt="GitHub Profile Summary" />
 
 <br/><br/>
 
-<img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajmaluk&theme=tokyonight" alt="Top Languages by Repo" />
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajmaluk&theme=tokyonight" alt="Top Languages by Repo" />
 &nbsp;
-<img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajmaluk&theme=tokyonight" alt="Top Languages by Commit" />
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajmaluk&theme=tokyonight" alt="Top Languages by Commit" />
 
 <br/><br/>
 
-<img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ajmaluk&theme=tokyonight" alt="GitHub Stats" />
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ajmaluk&theme=tokyonight" alt="GitHub Stats" />
 &nbsp;
-<img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=ajmaluk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajmaluk&theme=tokyonight&utcOffset=5" alt="Productive Time" />
 
 </div>
 
