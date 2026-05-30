@@ -85,7 +85,7 @@
 
 <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ajmaluk&theme=tokyonight" alt="GitHub Stats" />
 &nbsp;
-<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajmaluk&theme=tokyonight&utcOffset=5" alt="Productive Time" />
+<img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=ajmaluk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
